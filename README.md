@@ -1,25 +1,38 @@
 
-# Personal AI Principles
+- [English](docs/en/README.md)
+- [العربية](docs/ar/README.md)
+- [বাংলা](docs/bn/README.md)
+- [中文（简体）](docs/zh-CN/README.md)
+- [中文（繁體）](docs/zh-TW/README.md)
+- [Čeština](docs/cs/README.md)
+- [Dansk](docs/da/README.md)
+- [Nederlands](docs/nl/README.md)
+- [Suomi](docs/fi/README.md)
+- [Français](docs/fr/README.md)
+- [Deutsch](docs/de/README.md)
+- [Ελληνικά](docs/el/README.md)
+- [עברית](docs/he/README.md)
+- [हिन्दी](docs/hi/README.md)
+- [Magyar](docs/hu/README.md)
+- [Bahasa Indonesia](docs/id/README.md)
+- [Italiano](docs/it/README.md)
+- [日本語](docs/ja/README.md)
+- [한국어](docs/ko/README.md)
+- [Bahasa Melayu](docs/ms/README.md)
+- [मराठी](docs/mr/README.md)
+- [Norsk](docs/no/README.md)
+- [فارسی](docs/fa/README.md)
+- [Polski](docs/pl/README.md)
+- [Português](docs/pt/README.md)
+- [ਪੰਜਾਬੀ](docs/pa/README.md)
+- [Română](docs/ro/README.md)
+- [Русский](docs/ru/README.md)
+- [Español](docs/es/README.md)
+- [Svenska](docs/sv/README.md)
+- [Tagalog](docs/tl/README.md)
+- [తెలుగు](docs/te/README.md)
+- [ภาษาไทย](docs/th/README.md)
+- [Türkçe](docs/tr/README.md)
+- [Українська](docs/uk/README.md)
+- [Tiếng Việt](docs/vi/README.md)
 
-These principles start with gratitude from these 2 sources in determining these principles:
-- Daniel Pink YouTube video titled "The 6 Skills AI Will Never Replace": https://www.youtube.com/watch?v=1LMcGRfYBro&t=324s
-- Ghostty's AI Usage Policy here: https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
-
-Nothing other than this human was used to create the principles.
-
-## Principles
-1. The future is NOT determined by those SOLELY trained on the past.
-2. AI is NOT ONLY GenAI.
-3. All humans, AI, machine learning and tools work and collaborate in an ensemble doing what they are best at against everything else.
-4. Never let an AI do what can be done with code, commands, machine learning, deep learning or other tools.
-5. All AI artifacts will be secured by default and versioned.
-6. All AI artifacts will be evaluated for purposeful fit instead of size, hype or gut.
-7. AI will make the world 100% reachable and accessible.
-8. AI will reduce the work to get the work, the work to manage the work and any further work that should have been done in the first place.
-9. When possible, AI will be local first.
-10. When possible, all AI and surrounding tools usage will be observed.
-11. When possible, all AI conversations will be saved in the repository with artifacts created.
-12. All AI usage will be disclosed stating:
-      1. The tool and/or model used.
-      2. The extent of what work was done.
-13. The humans-in-the-loop must fully understand all items produced together whether it is AI, predictive analytics, pipelines, code and documentation.
